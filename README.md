@@ -1,9 +1,7 @@
-# Expo Router and Tailwind CSS
+### Shadrn
 
-Use [Expo Router](https://docs.expo.dev/router/introduction/) with [Nativewind](https://www.nativewind.dev/v4/overview/) styling.
+A [Shadcn UI](https://ui.shadcn.com) inspired component library for React Native,
+with a more opinionated styling.
 
-## 🚀 How to use
-
-```sh
-npx create-expo-app -e with-router-tailwind
-```
+> [!NOTE]
+> This is a work in progress.
